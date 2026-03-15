@@ -4,3 +4,4 @@
 # venv dir
 .venv*/
 venv/
+.rust-env
